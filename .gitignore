@@ -1,0 +1,7 @@
+
+#Byte-compiled / optimized / DILL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.sqlite3
