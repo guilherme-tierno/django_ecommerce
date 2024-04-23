@@ -42,6 +42,7 @@ class Product(models.Model): #product_category
     #python 3
     def __str__(self):
         return self.title
+        
     #python 2
     def __unicode__(self):
         return self.title
