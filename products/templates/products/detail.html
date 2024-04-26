@@ -1,5 +1,9 @@
-{{ object.title }} <br/>
-{{ object.description }} <br/>
-{% if object.image %}
-    <img src='{{ object.image.url }}' class='img-fluid' style="max-height: 400px; width: auto;"/>
-{% endif %}
+{% extends "base.html" %}
+
+{% block content %}
+    {{ object.title }} <br/>
+    {{ object.description }} <br/>
+    {% if object.image %}
+        <img src='{{ object.image.url }}' class='img-fluid' style="max-height: 400px; width: auto;"/>
+    {% endif %}
+{% endblock content %}
