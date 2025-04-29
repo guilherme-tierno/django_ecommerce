@@ -1,0 +1,3 @@
+Esse repositório foi criado durante o curso de Django - Construindo um Ecommerce do CÓDIGO FLUENTE no YouTube
+
+Projeto incompleto focado em reforçar os conhecimentos git, python, django, API, CRUD,...
