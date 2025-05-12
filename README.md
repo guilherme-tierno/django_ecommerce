@@ -10,8 +10,6 @@ Bem-vindo ao **E-commerce Django**, um projeto de comércio eletrônico desenvol
 - **Django** - Framework web robusto e escalável
 - **Django Rest Framework (DRF)** - API para integração frontend
 
-## ⚙️ Como configurar o projeto
-
 ### Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado:
